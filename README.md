@@ -1,16 +1,13 @@
-### Hi there 👋
+## :briefcase: Some cool works
 
-<!--
-**zabealbe/zabealbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[lego-builder](https://github.com/zabealbe/lego_builder) \
+Object manipulation and 6DoF pose estimation using ROS and PyTorch
 
-Here are some ideas to get you started:
+[can-cicd](https://github.com/eagletrt/can-cicd) \
+Automatic CAN Bus message IDs and serialization/deserialization library generation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[snake-vhdl](https://github.com/zabealbe/snake-vhdl) \
+VHDL Implementation of Snake :snake: with custom VGA interface and tessellation
+
+[osimg-baker](https://github.com/eagletrt/osimg-baker) \
+Automatic ARM OS Image generation with Github Actions

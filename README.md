@@ -3,7 +3,7 @@
 [lego-builder](https://github.com/zabealbe/lego_builder) \
 Object manipulation and 6DoF pose estimation using ROS and PyTorch
 
-[can-cicd](https://github.com/eagletrt/can-cicd) \
+[can-cicd](https://github.com/zabealbe/can-cicd) \
 Automatic CAN Bus message IDs and serialization/deserialization library generation
 
 [snake-vhdl](https://github.com/zabealbe/snake-vhdl) \

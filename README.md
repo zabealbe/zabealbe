@@ -1,5 +1,8 @@
 ## :briefcase: Some cool works
 
+[hpc-tools](https://github.com/zabealbe/HPCtools) \
+Simplify and organize your high-performance computing workflows.
+
 [lego-builder](https://github.com/zabealbe/lego_builder) \
 Object manipulation and 6DoF pose estimation using ROS and PyTorch
 
